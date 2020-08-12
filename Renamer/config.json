@@ -1,0 +1,24 @@
+{
+  "skip": {
+    "extensions": [
+      "dll",
+      "pdb",
+      "ico",
+      "png"
+    ],
+    "fileNames": [
+      "Renamer",
+      "config"
+    ],
+    "directoryNames": [
+    ]
+  },
+  "matchCase": true,
+  "fullWord": true,
+  "fullWordRegex": "[A-Za-z\\u0100-\\u01FF]",
+  "renameWithinFileContent": true,
+  "renameFiles": true,
+  "useFileExtensionWhileRenamingFile": true,
+  "renameDirectories": true,
+  "openDirectoryAfter": true
+}
